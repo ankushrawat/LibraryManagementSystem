@@ -1,0 +1,8 @@
+Objective
+You will be creating a Library Management System in which you can perform all CRUD operations, in addition to advanced search, book issuing, Serialization and Deserialization.
+
+Project Context
+Management systems mostly use software across all schools and colleges to keep record of data. One such System is Library Management System, which is used to keep record of books present in a library.
+
+
+These Systems comprises of information regarding Books, where we can perform all the operations that are required in an actual system such as CRUD operation, advanced search, book issuing, and also to store the information within files using the process known as Serialization.
